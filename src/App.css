@@ -1,0 +1,17 @@
+th,
+td,
+tr,
+table {
+  border: 2px solid black;
+padding: 20px;
+}
+
+input {
+  border-radius: 10px;
+  margin-left: 10px;
+  font-size: large;
+}
+
+label {
+  font-size: large;
+}
